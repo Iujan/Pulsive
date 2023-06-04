@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/Iujan/Pulsive/assets/111649405/a66903ef-b3fa-4fcc-b5d2-98650f577058)https://github.com/Iujan/Pulsive/assets/111649405/a66903ef-b3fa-4fcc-b5d2-98650f577058https://github.com/Iujan/Pulsive/assets/111649405/a66903ef-b3fa-4fcc-b5d2-98650f577058https://github.com/Iujan/Pulsive/assets/111649405/a66903ef-b3fa-4fcc-b5d2-98650f577058" />
+  <img src="https://raw.githubusercontent.com/Iujan/Pulsive/main/logo.png" />
 </p>
 
 # Pulsive
